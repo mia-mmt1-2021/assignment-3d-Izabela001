@@ -1,0 +1,22 @@
+header {background-color: #FF2D88;
+    height:100px ;
+    margin: -8px;
+    text-align:center;
+    }
+
+    p {text-align:center;
+    white-space:pre;}
+    
+
+div {height:600px;
+width:800px;
+background-color:#ABE50D;
+border: 3px solid #FF2D88;
+margin-top:50px;
+margin-bottom:80px;
+margin-left:350px;
+text-align:center;}  
+
+p{height:fit-content;}  
+
+footer {background-color:black;height:100px;margin: -8px;}
