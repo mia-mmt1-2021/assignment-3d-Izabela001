@@ -19,3 +19,6 @@ Make sure that this edited website works on your local machine.
 ## Submitting your work
 Create a new branch called **gh-pages** and upload your local work into this branch.
 Start a new **pull request**, select one **reviewer** and make sure to put the **GitHub Pages URL** in the comment section. Do **not** merge this Pull Request yourself. That's up to the reviewer to decide (merging is approving the assignment).
+
+
+
